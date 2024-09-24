@@ -6,6 +6,8 @@ A template for building RESTful APIs using Express and TypeScript.
 
 - TypeScript support
 - Express.js framework
+- Mongoose
+- Dockerfile
 - Environment variable management with `dotenv`
 - Basic project structure
 - Simple example API
